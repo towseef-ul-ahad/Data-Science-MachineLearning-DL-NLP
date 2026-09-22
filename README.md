@@ -1,22 +1,43 @@
-# Data Science & Machine Learning
+# Data Science, Machine Learning, Deep Learning & NLP
 
-My learning journey through Data Science and Machine Learning.
+Learning Data Science, Machine Learning, Deep Learning and NLP through
+structured study, implementation, experimentation and projects.
 
-This repository tracks the major concepts, implementations, exercises,
-and projects I complete while studying Data Science and ML.
+I'm following the Complete Machine Learning, NLP Bootcamp, MLOps &
+Deployment course by Krish Naik as a structured learning path.
 
-## Topics
+The goal is not to simply reproduce the course material, but to understand
+the concepts, implement them, experiment with them, and gradually add my
+own work and projects.
 
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Statistics
-- Exploratory Data Analysis
-- Machine Learning
-- Projects
+## Progress
 
-## Goal
+### Python & Data Science
 
-Build a strong practical foundation in Data Science and Machine Learning
-through both theory and implementation.
+- [ ] Python
+- [ ] NumPy
+
+### Machine Learning
+
+- [ ] Machine Learning fundamentals
+
+### Deep Learning
+
+- [ ] Deep Learning
+
+### NLP
+
+- [ ] NLP
+
+### MLOps & Deployment
+
+- [ ] MLOps
+- [ ] Deployment
+
+## Notes
+
+This repository will be updated continuously as I progress through the
+course.
+
+I will gradually add my own implementations, experiments, notes and
+projects rather than trying to structure everything in advance.
